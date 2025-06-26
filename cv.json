@@ -1,0 +1,95 @@
+{
+  "nombre": "Jose David Malaver Sosa",
+  "datosPersonales": {
+    "nombre": "Jose David Malaver Sosa",
+    "mail": "malaversjd0406@email.com",
+    "telefono": "+34 610069826",
+    "direccion": "San Sebastian, España",
+    "lema": "Apasionado el control de gestion y el No Code",
+    "fechaNacimiento": "1992-04-06"
+  },
+  "experiencia": [
+    {
+      "puesto": "Jefe de Operaciones",
+      "periodo": "2022 - Actualidad",
+      "descripcion": "Control y gestion de operaciones",
+      "funciones": [
+        "Analizar desviaciones en la operaciones",
+        "Fomentar la mejora continua en las operaciones diarias"
+        
+      ]
+    },
+    {
+      "puesto": "Jefe de Procesos",
+      "periodo": "2019 - 2022",
+      "descripcion": "Especialista en levantamiento, control y gestión de procesos",
+      "funciones": [
+        "Levantamiento de procesos",
+        "aplicación de metodologia PDCA",
+        "Documentacion de procesos"
+      ]
+    },
+    {
+      "puesto": "Supervisor de Logistica",
+      "periodo": "2016 - 2019",
+      "descripcion": "COntrol de maquinarias y equipos",
+      "funciones": [
+        "Control de stock de herramientos y materiales",
+        "Despacho y recepcion de maquinarias y equipos",
+        "Control y gestion de mantenimiento de vehiculos pesados y livianos"
+      ]
+    }
+  ],
+  "formacion": [
+    {
+      "titulo": "Ingeniero industrial",
+      "institucion": "Universidad de Oriente Venezuela"
+    },
+    {
+      "titulo": "Diplomado en control y gestion de Procesos",
+      "horas": "800 ECTS",
+      "institucion": "Pontifica Universidad Catolica de Chile",
+      "temario": "Control de proceso, metodologia lean"
+    }
+  ],
+  "idiomas": [
+    {
+      "idioma": "Español",
+      "lectura": 10,
+      "escritura": 10,
+      "comprension": 10,
+      "nivel": "C2"
+    },
+    {
+      "idioma": "Inglés",
+      "lectura": 8,
+      "escritura": 7,
+      "comprension": 8,
+      "nivel": "B2"
+    }
+  ],
+  "habilidades": [
+    {
+      "nombre": "SQL",
+      "nivel": 7
+    },
+    {
+      "nombre": "No Code",
+      "nivel": 9
+    },
+    {
+      "nombre": "Power Bi",
+      "nivel": 7
+    }
+  ],
+  "contacto": {
+    "titulo": "Información de Contacto",
+    "descripcion": "Puedes contactarme a través de los siguientes medios",
+    "linkedin": "http://linkedin.com/in/josemalaversosa"
+  },
+  "footer": {
+    "texto": "© 2025 José Malaver"
+  }
+}
+
+
